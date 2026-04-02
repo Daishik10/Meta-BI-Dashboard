@@ -24,11 +24,10 @@ Time Intelligence: MoM (Month-over-Month) and WoW (Week-over-Week) analysis to s
 Platform & Placement Analysis: Visual breakdown of where ads are served (Stories, Feed, Reels) and which placement delivers the best engagement.
 Interactive Filtering: Users can filter by Date Range, Campaign Objective (Lead Gen, Awareness, Traffic), and Region.
 
-
 How to Use
 Use the Date Slicer at the top to select your reporting period.
-
 Click on a specific Campaign Category to filter the visual charts for that objective.
-
 Hover over the Trend Lines to see detailed tooltips on daily performance fluctuations.
 
+Screenshot of Dashboard 
+https://github.com/Daishik10/Meta-BI-Dashboard/blob/main/Meta%20Dashboard.png
